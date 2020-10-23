@@ -1,9 +1,12 @@
-# Technica Miscellany
-A collection of memories, stories, and aphorisms from the technical trade
+# Technica Miscellany #
+
+*A collection of memories, stories, writings, aphorisms, and guiding principles from the computing trades*
+
+This is a curated list of various works about and related to the computing trades. This is not programmer specific, though I am a programmer so it may lean that way. The goal of this document is to collect those things which illuminate the culture at the time; have materially influenced the way we think, work, and interact; or could shift the way we look as a group.
+
+This is a glimmer of what [thick culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/) might look like.
 
 ## Stories and Other Writings ##
-
-This is a growing list of my favorite stories and short writings on technical practices, and the technical trade in general. Some are humorous, some are illuminating, all are likley a little cheeky.
 
 - [The Abuse of Design Patterns in writing a Hello World Program](https://taskinoor.wordpress.com/2011/09/21/the-abuse-of-design-patterns-in-writing-a-hello-world-program/)
     - Taking design patterns to the extreme, creating a Hello World program in Java -- This is a great one for highlighting that patterns are not always the answer
@@ -13,10 +16,10 @@ This is a growing list of my favorite stories and short writings on technical pr
     - Using ONLY the type system from TypeScript, someone created FizzBuzz
 - [A Story About 'Magic'](http://www.catb.org/~esr/jargon/html/magic-story.html)
     - One of my favorite stories about technical oddities and electronics
+- [Thick and Thin Culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/)
+    - A reflection on what "geek culture" looks like and what it could be
 
 ## Aphorisms and Principles ##
-
-Commonly quoted sayings, laws, and other thoughts from people in the trade.
 
 *Brooks' Law*
 
@@ -46,7 +49,7 @@ Commonly quoted sayings, laws, and other thoughts from people in the trade.
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-*[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)*
+*[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)* (link)
 
 *Principle of Least Astonishment*
 
@@ -54,18 +57,20 @@ Commonly quoted sayings, laws, and other thoughts from people in the trade.
 
 ## Books ##
 
-This is a list of my favorite books from, and related to, the tech trade. Though some books may be specifically technical, the over-arching theme is books of historic or interpersonal relevance.
-
 - [The Cathedral & the Bazaar](https://bookshop.org/books/the-cathedral-the-bazaar-musings-on-linux-and-open-source-by-an-accidental-revolutionary-revised-expanded/9780596001087)
     - Reflections on the Open Source community, and the benefits which come from open source software
-- [Peopleware](https://bookshop.org/books/peopleware-productive-projects-and-teams-revised/9780321934116)
-    - Discussions on things that make for a better, or worse technical worker environment
 - [The Mythical Man Month](https://bookshop.org/books/the-mythical-man-month-essays-on-software-engineering-anniversary-edition/9780201835953)
     - The famous book by Fred Brooks about his experience in the software industry
-- [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-dp-0932633420/dp/0932633420/ref=mt_other?_encoding=UTF8&me=&qid=1603479443)
-    - An analysis of computer programmers, programming languages, and how they function together in the world of software development
 - [A People's History of Computing in the United States](https://bookshop.org/books/a-people-s-history-of-computing-in-the-united-states/9780674970977)
     - A look at the democratization of programmable computing in the United States
+- [Peopleware](https://bookshop.org/books/peopleware-productive-projects-and-teams-revised/9780321934116)
+    - Discussions on things that make for a better, or worse technical worker environment
+- [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-dp-0932633420/dp/0932633420/ref=mt_other?_encoding=UTF8&me=&qid=1603479443)
+    - An analysis of computer programmers, programming languages, and how they function together in the world of software development
+
+## Contributing ##
+
+To contribute to this list, please visit the [contributing document.](https://github.com/cmstead/technica-miscellany/blob/main/CONTRIBUTING.md)
 
 ## License ##
 
