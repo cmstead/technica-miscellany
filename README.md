@@ -14,6 +14,8 @@ This is a glimmer of what [thick culture](https://www.geepawhill.org/2018/10/14/
     - The story of a faux-German sign posted to warn people to leave the computers in a supercomputing center alone
 - [Fizz-buzz in TypeScript](https://dev.to/gypsydave5/fizz-buzz-in-typescript-7ip)
     - Extracting the pure TypeScript part of TypeScript, and building FizzBuzz with an abuse of the type system
+- [The Origins of Opera and the Future of Programming](https://blog.atomist.com/the-origins-of-opera-and-the-future-of-programming/)
+    - The camerata, symmathesy, and the continuous discovery of software as a sociotechnical system
 - [A Story About 'Magic'](http://www.catb.org/~esr/jargon/html/magic-story.html)
     - One of my favorite stories about technical oddities and electronics
 - [Thick and Thin Culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/)
