@@ -14,7 +14,7 @@ This is a growing list of my favorite stories and short writings on technical pr
 - [A Story About 'Magic'](http://www.catb.org/~esr/jargon/html/magic-story.html)
     - One of my favorite stories about technical oddities and electronics
 
-## Aphorisms ##
+## Aphorisms and Principles ##
 
 Commonly quoted sayings, laws, and other thoughts from people in the trade.
 
@@ -45,6 +45,12 @@ Commonly quoted sayings, laws, and other thoughts from people in the trade.
 *Kernighan's Lever*
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
+*[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)*
+
+*Principle of Least Astonishment*
+
+> If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature.
 
 ## Books ##
 
