@@ -46,6 +46,21 @@ Commonly quoted sayings, laws, and other thoughts from people in the trade.
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
+## Books ##
+
+This is a list of my favorite books from, and related to, the tech trade. Though some books may be specifically technical, the over-arching theme is books of historic or interpersonal relevance.
+
+- [The Cathedral & the Bazaar](https://bookshop.org/books/the-cathedral-the-bazaar-musings-on-linux-and-open-source-by-an-accidental-revolutionary-revised-expanded/9780596001087)
+    - Reflections on the Open Source community, and the benefits which come from open source software
+- [Peopleware](https://bookshop.org/books/peopleware-productive-projects-and-teams-revised/9780321934116)
+    - Discussions on things that make for a better, or worse technical worker environment
+- [The Mythical Man Month](https://bookshop.org/books/the-mythical-man-month-essays-on-software-engineering-anniversary-edition/9780201835953)
+    - The famous book by Fred Brooks about his experience in the software industry
+- [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-dp-0932633420/dp/0932633420/ref=mt_other?_encoding=UTF8&me=&qid=1603479443)
+    - An analysis of computer programmers, programming languages, and how they function together in the world of software development
+- [A People's History of Computing in the United States](https://bookshop.org/books/a-people-s-history-of-computing-in-the-united-states/9780674970977)
+    - A look at the democratization of programmable computing in the United States
+
 ## License ##
 
 Licensed under Creative Commons:
