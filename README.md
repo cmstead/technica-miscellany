@@ -39,6 +39,10 @@ This is a glimmer of what [thick culture](https://www.geepawhill.org/2018/10/14/
 
 > A complex system that works is invariably found to have evolved from a simple system that worked.
 
+*Goodhart's Law*
+
+> When a measure becomes a target, it ceases to be a good measure.
+
 *Greenspun's tenth rule*
 
 > Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
