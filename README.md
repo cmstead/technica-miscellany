@@ -2,9 +2,9 @@
 
 *A collection of memories, stories, writings, aphorisms, and guiding principles from the computing trades*
 
-This is a curated list of various works about and related to the computing trades. This is not programmer specific, though I am a programmer so it may lean that way. The goal of this document is to collect those things which illuminate the culture at the time; have materially influenced the way we think, work, and interact; or could shift the way we look as a group.
+This is a curated list of various works about and related to the computing trades. This is not programmer specific, though I am a programmer so it may lean that way. The goal of this document is to collect those things which illuminate the culture at the time; have materially influenced the way we think, work, and interact; or could shift the way we look, think, or work as a group.
 
-This is a glimmer of what [thick culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/) might look like.
+This is a glimmer of what I imagine [thick culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/) might look like.
 
 ## Stories and Other Writings ##
 
@@ -46,6 +46,10 @@ This is a glimmer of what [thick culture](https://www.geepawhill.org/2018/10/14/
 *Greenspun's tenth rule*
 
 > Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
+
+*Gregor's Law*
+
+> Excessive complexity is nature’s punishment for organizations that are unable to make decisions.
 
 *Hofstadter's Law*
 
