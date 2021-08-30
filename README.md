@@ -20,6 +20,13 @@ This is a glimmer of what I imagine [thick culture](https://www.geepawhill.org/2
     - One of my favorite stories about technical oddities and electronics
 - [Thick and Thin Culture](https://www.geepawhill.org/2018/10/14/thick-and-thin-culture/)
     - A reflection on what "geek culture" looks like and what it could be
+- [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
+    - A discussion of why being less efficient is more efficient
+
+## Videos ##
+
+- [Veritasium - Khan Academy and the Effectiveness of Science Videos](https://www.youtube.com/watch?v=eVtCO84MDj8)
+    - A video about discomfort of learning, and combating misconceptions around an idea
 
 ## Aphorisms and Principles ##
 
