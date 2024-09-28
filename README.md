@@ -68,6 +68,8 @@ This is a glimmer of what I imagine [thick culture](https://www.geepawhill.org/2
 
 *[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)* (link)
 
+*[Principle of Least Privilege](https://en.m.wikipedia.org/wiki/Principle_of_least_privilege)* (link) 
+
 *Principle of Least Astonishment*
 
 > If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature.
