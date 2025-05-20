@@ -66,6 +66,10 @@ This is a glimmer of what I imagine [thick culture](https://www.geepawhill.org/2
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
+*Little's Law*
+
+> The average number of items in a system is equal to the average arrival rate of those items multiplied by the average time they spend in the system (L = &lambda;W)
+
 *[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)* (link)
 
 *[Principle of Least Privilege](https://en.m.wikipedia.org/wiki/Principle_of_least_privilege)* (link) 
