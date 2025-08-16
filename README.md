@@ -34,6 +34,12 @@ This is a glimmer of what I imagine [thick culture](https://www.geepawhill.org/2
 
 > [...] Adding manpower to a late software project makes it later
 
+*Coldwater's Law*
+
+> Given enough published content, an expert in their field will always have their work weaponized against them by someone not realizing its origins.
+
+Origin: [https://bsky.app/profile/markstjohn.bsky.social/post/3l6sy5wiakr2z](bsky skeet)
+
 *Conway's Law*
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
